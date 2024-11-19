@@ -131,13 +131,14 @@ based on:       Switch Theme for Launchbox by Grila
 		<fontPath>${mainFont}</fontPath>
 		<fontSize>0.04</fontSize>
 		<color>${mainColor}</color>
-		<pos>0.865 .945</pos>
+		<pos>1 1</pos>
 		<size>0.4 0.039</size>
 		<alignment>left</alignment>
 		<verticalAlignment>center</verticalAlignment>
 	</text>
 	<batteryIndicator name="batteryIndicator">
 		<color>${mainColor}</color>
+		<pos>0.865 .930</pos>
 	</batteryIndicator>
 	</view>
   
