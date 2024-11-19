@@ -13,6 +13,7 @@
 		<scrollDirection>horizontal</scrollDirection>
 		<zIndex>6</zIndex>
 		<scrollSound>./../_art/assets/Move.wav</scrollSound>
+		<showVideoAtDelay>500</showVideoAtDelay>
 	</imagegrid>
 
 	<text name="gridtile">
